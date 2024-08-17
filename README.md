@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, i'm Heryson 👋
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula" alt="Top Langs" /></td>
@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+![WordPress Plugin Required PHP Version](https://img.shields.io/wordpress/plugin/required-php/:slug)
+
 
 <!--
 **ribshow/ribshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
