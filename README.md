@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribshow&show_icons=true&theme=dracula)</td>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula)</td>
+    <td><img src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribshow&show_icons=true&theme=dracula)"></td>
+    <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula)"></td>
   </tr>
 </table>
 
