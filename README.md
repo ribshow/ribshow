@@ -1,9 +1,8 @@
 ## Hi there 👋
-
 <table>
   <tr>
-    <td><img src="![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribshow&show_icons=true&theme=dracula)"></td>
-    <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula)"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula" alt="Top Langs" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ribshow&show_icons=true&theme=dracula" alt="GitHub Stats" /></td>
   </tr>
 </table>
 
