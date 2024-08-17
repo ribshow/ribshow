@@ -3,6 +3,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribshow&show_icons=true&theme=dracula)
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribshow&layout=compact&theme=dracula)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+
 <!--
 **ribshow/ribshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
