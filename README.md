@@ -1,7 +1,7 @@
 ## Hello World, i'm Heryson 👋
 <p>
   <i>
-  Hi, my name is Heryson Andrade. I'm 24 years old and currently studying programming at Fatec Jaú. Here, I'm learning to work with various technologies and continuously developing my skills
+  Hi, my name is Heryson Andrade. I'm 25 years old and currently studying programming at Fatec Jaú. Here, I'm learning to work with various technologies and continuously developing my skills
   </i>
 </p>
 
