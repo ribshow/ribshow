@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=3000&color=31F777&background=FF35A300&width=435&lines=Hello+World%2C+I'm+Heryson!;Welcome+to+my+environment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=3000&color=31F777&background=FF35A300&width=435&lines=Hello+World%2C+I'm+Heryson!;Welcome+to+my+environment+%3AD)](https://git.io/typing-svg)
 <p>
   <i>
   Hi, my name is Heryson Andrade. I'm 25 years old and currently studying programming at Fatec Jaú. Here, I'm learning to work with various technologies and continuously developing my skills
